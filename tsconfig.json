@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@components": ["./src/components/index.ts"],
+      "@screens": ["./src/screens/index.ts"],
+      "@hooks": ["./src/hooks/index.ts"],
+      "@context": ["./src/context/index.ts"],
+      "@helpers/*": ["./src/helpers/*"],
+    }
+  }
+}
