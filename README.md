@@ -1,4 +1,4 @@
-# 🚚 Delivery Mobile App
+# 🚚 Note Mobile App
 
 Hello everyone, I bring you a Note Mobile Application built on
 React Native, leveraging Typescript language to develop the entire flow.
